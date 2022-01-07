@@ -1,0 +1,9 @@
+[user]
+	email = gregorgilchrist@gmail.com
+	name = Gregor Gilchrist
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = /Users/user/.gitignore
+[init]
+	defaultBranch = main
