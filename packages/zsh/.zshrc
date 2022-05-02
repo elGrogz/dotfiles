@@ -4,6 +4,7 @@ export ZSH="/Users/user/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 
 plugins=(
+  asdf
   git
   zsh-autosuggestions
   copybuffer
@@ -14,12 +15,8 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
-# append completions to fpath
-fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
 autoload -Uz compinit && compinit
-
-# export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
@@ -46,5 +43,8 @@ alias reload="source ~/.zshrc"
 export NVM_DIR="/Users/user/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+export PNPM_HOME="/Users/user/Library/pnpm"
+export PATH="$PNPM_HOME:$PATH"
 
 eval "$(starship init zsh)"

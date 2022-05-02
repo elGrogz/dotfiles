@@ -14,10 +14,6 @@ if [ ! -f /usr/local/bin/brew ]; then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 fi
 
-if [ ! -d ~/.asdf ]; then
-  git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.9.0
-fi
-
 # xcode will get prompted to install
 CLONE_PATH=~/dev
 if [ ! -d "$CLONE_PATH" ]; then
@@ -33,28 +29,12 @@ fi
 # installs all dependencies in the brewfile
 brew bundle -v --file "$CLONE_PATH"/dotfiles/Brewfile
 
-# move vscode settings to correct place
-if [ ! -d "$CLONE_PATH"/dotfiles ]; then
-  cd "$CLONE_PATH"
-  git clone git@github.com:elGrogz/dotfiles.git
-fi
-
-# create config directory
-if [ ! -d ~/.config ]; then
-  mkdir ~/.config/
-fi
-
 # store vscode settings directory
 # VSCODE_PATH=$HOME/Library/ApplicationSupport/Code/User
 
 # if [[ -f $VSCODE_PATH/settings.json ]]; then
 #   rm $VSCODE_PATH/settings.json
 # fi
-
-# create config directory
-if [ ! -f ~/.config ]; then
-  mkdir ~/.config/
-fi
 
 # Set dotfiles/packages as the alias HOME directory and then 
 stow -v -d "$CLONE_PATH"/dotfiles/packages -t $HOME zsh starship git
