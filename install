@@ -29,13 +29,13 @@ fi
 # installs all dependencies in the brewfile
 brew bundle -v --file "$CLONE_PATH"/dotfiles/Brewfile
 
-# store vscode settings directory
-# VSCODE_PATH=$HOME/Library/ApplicationSupport/Code/User
-
-# if [[ -f $VSCODE_PATH/settings.json ]]; then
-#   rm $VSCODE_PATH/settings.json
-# fi
-
 # Set dotfiles/packages as the alias HOME directory and then 
 stow -v -d "$CLONE_PATH"/dotfiles/packages -t $HOME zsh starship git
 # stow -v -d "$CLONE_PATH"/dotfiles/packages -t $HOME/.vscode vscode
+
+# iterm stuff
+
+# vscode stuff
+
+# alfred stuff
+
