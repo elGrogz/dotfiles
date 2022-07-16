@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DEV_TOOLS=1 LEDGER_INTERNAL_ARGS=--inspect VERBOSE=debug \/Applications\/Ledger\\ Live.app\/Contents\/MacOS\/Ledger\\ Live",
+    "uid" : "539604D4-6669-41EB-ACFB-FA3DCBD4A581",
+    "name" : "Open Prod App with Verbose Logging",
+    "keyword" : "prod-verbose"
+  }
+}

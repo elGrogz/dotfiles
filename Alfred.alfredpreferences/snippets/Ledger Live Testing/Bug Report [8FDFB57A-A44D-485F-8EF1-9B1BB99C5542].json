@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "\n\nSteps to reproduce:\n1.\n2. \n\nExpected Result:\n\n\nActual Result:\n\n\nEnvironment:\nOS: MacOS\nBuild: \n",
+    "uid" : "8FDFB57A-A44D-485F-8EF1-9B1BB99C5542",
+    "name" : "Bug Report",
+    "keyword" : "bug-report"
+  }
+}

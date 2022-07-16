@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "adb shell getprop | grep ro.product.cpu.abi",
+    "uid" : "877A4766-D0ED-422A-9C8B-0CDB69FDA71E",
+    "name" : "Get Android Device Architecture",
+    "keyword" : "android-device-arch"
+  }
+}

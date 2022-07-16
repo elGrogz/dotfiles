@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DEBUG=pw:api npx playwright test playwright\/specs\/ -c playwright\/playwright.config.ts",
+    "uid" : "1762E943-9AFB-46D1-B87D-2BE68E5F61AD",
+    "name" : "Kick off Playwright Tests",
+    "keyword" : "playwright"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "yarn detox build --configuration android.staging",
+    "uid" : "E98B3006-7095-43AA-AF69-16B219F8E2DC",
+    "name" : "Detox - Android Build (staging)",
+    "keyword" : "detox-ndroid-build-staging"
+  }
+}

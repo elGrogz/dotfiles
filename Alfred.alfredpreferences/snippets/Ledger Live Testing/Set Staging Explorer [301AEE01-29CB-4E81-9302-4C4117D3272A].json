@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "EXPERIMENTAL_EXPLORERS=1 EXPLORER=https:\/\/explorers.api-01.live.ledger-stg.com",
+    "uid" : "301AEE01-29CB-4E81-9302-4C4117D3272A",
+    "name" : "Set Staging Explorer",
+    "keyword" : "staging-explorer"
+  }
+}

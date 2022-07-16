@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "yarn detox build --configuration android.debug",
+    "uid" : "AB57B14A-B24F-4A0B-B501-2B117EA5B1DC",
+    "name" : "Build Android Debug Tests",
+    "keyword" : "build-android-debug-tests"
+  }
+}

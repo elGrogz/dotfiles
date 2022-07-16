@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DEV_TOOLS=1 \/Applications\/Ledger\\ Live\\ Nightly.app\/Contents\/MacOS\/Ledger\\ Live\\ Nightly",
+    "uid" : "7F341A87-4633-4B8A-AB36-AEB06E09BA0B",
+    "name" : "Open Nightly App with Dev Tools",
+    "keyword" : "nightly-devtools"
+  }
+}

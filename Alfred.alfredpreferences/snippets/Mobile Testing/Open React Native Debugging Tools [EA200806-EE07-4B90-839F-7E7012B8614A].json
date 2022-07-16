@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "open \"rndebugger:\/\/set-debugger-loc?host=localhost&port=8081\"",
+    "uid" : "EA200806-EE07-4B90-839F-7E7012B8614A",
+    "name" : "Open React Native Debugging Tools",
+    "keyword" : "react-natv-ve-debugger"
+  }
+}

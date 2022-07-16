@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "TAG=latest docker-compose -f \/Users\/ggilchrist\/dev\/blockchain-explorer\/environments\/explorer-praline-btc.yml up -d --force-recreate",
+    "uid" : "BA9FABDD-F680-4316-9397-7A0207209B0E",
+    "name" : "Launch full BTC Testkit",
+    "keyword" : "full-btc-testkit"
+  }
+}

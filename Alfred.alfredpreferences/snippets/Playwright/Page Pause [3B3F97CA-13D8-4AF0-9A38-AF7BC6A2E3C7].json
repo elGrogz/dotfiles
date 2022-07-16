@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "await page.pause();",
+    "uid" : "3B3F97CA-13D8-4AF0-9A38-AF7BC6A2E3C7",
+    "name" : "Page Pause",
+    "keyword" : "pause"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git commit -m \"trigger ci\" --allow-empty",
+    "uid" : "3DF04DEC-7B52-47C9-BCD0-F6AFCC9E094A",
+    "name" : "Trigger CI with Empty Commit",
+    "keyword" : "empty-commit"
+  }
+}

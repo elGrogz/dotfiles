@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh bandit2@bandit.labs.overthewire.org -p 2220",
+    "uid" : "797CE657-73FB-4FAC-828B-E3959941C269",
+    "name" : "Bandit SSH",
+    "keyword" : "ssh-bandit"
+  }
+}

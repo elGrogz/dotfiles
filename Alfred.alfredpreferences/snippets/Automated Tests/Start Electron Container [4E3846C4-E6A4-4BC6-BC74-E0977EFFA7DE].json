@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "yarn start-electron-webdriver",
+    "uid" : "4E3846C4-E6A4-4BC6-BC74-E0977EFFA7DE",
+    "name" : "Start Electron Container",
+    "keyword" : "electron-container"
+  }
+}

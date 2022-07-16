@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "console.log(\"-------> \" + );",
+    "uid" : "AD351BDA-EE05-4AFA-8233-A2DED1AA8A44",
+    "name" : "JS Console Log",
+    "keyword" : "console-log"
+  }
+}

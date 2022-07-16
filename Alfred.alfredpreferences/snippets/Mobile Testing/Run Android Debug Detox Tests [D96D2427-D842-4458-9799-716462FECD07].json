@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "yarn detox test --configuration android.debug -l verbose",
+    "uid" : "D96D2427-D842-4458-9799-716462FECD07",
+    "name" : "Run Android Debug Detox Tests",
+    "keyword" : "android-debug-tests"
+  }
+}

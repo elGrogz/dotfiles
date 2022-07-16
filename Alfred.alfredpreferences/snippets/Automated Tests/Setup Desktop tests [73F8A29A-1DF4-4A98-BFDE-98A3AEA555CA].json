@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "pnpm clean && pnpm i --filter=\"ledger-live-desktop...\" --filter=\"ledger-live\" && pnpm build:lld:deps && pnpm desktop build:testing",
+    "uid" : "73F8A29A-1DF4-4A98-BFDE-98A3AEA555CA",
+    "name" : "Setup Desktop tests",
+    "keyword" : "desktop-test-setup"
+  }
+}

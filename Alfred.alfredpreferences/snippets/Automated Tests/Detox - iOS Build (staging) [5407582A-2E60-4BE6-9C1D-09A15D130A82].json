@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "yarn detox build --configuration ios.staging",
+    "uid" : "5407582A-2E60-4BE6-9C1D-09A15D130A82",
+    "name" : "Detox - iOS Build (staging)",
+    "keyword" : "detox-ios-build-staging"
+  }
+}

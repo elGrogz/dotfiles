@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "adb shell settings put system pointer_location 1",
+    "uid" : "E521BF60-46F4-43BF-9516-F73AA999A4F3",
+    "name" : "Show pointer location on Android emulator",
+    "keyword" : "show-pointer-android"
+  }
+}

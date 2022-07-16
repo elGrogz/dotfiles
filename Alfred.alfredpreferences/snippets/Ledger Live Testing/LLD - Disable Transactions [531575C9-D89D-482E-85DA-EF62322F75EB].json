@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DISABLE_TRANSACTION_BROADCAST=1",
+    "uid" : "531575C9-D89D-482E-85DA-EF62322F75EB",
+    "name" : "LLD - Disable Transactions",
+    "keyword" : "disable-transactions"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "adb shell input keyevent 82",
+    "uid" : "758B6151-60BF-4F40-ABC9-8267FAA0281A",
+    "name" : "Open Debug menu on Android",
+    "keyword" : "debug-android"
+  }
+}

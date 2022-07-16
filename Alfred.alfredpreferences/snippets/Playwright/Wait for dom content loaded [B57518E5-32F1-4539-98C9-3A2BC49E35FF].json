@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "await page.waitForLoadState(\"domcontentloaded\");",
+    "uid" : "B57518E5-32F1-4539-98C9-3A2BC49E35FF",
+    "name" : "Wait for dom content loaded",
+    "keyword" : "domcontentloaded"
+  }
+}

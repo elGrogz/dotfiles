@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DEV_TOOLS=1 LEDGER_INTERNAL_ARGS=--inspect \/Applications\/Ledger\\ Live.app\/Contents\/MacOS\/Ledger\\ Live",
+    "uid" : "A138754D-81FB-47C1-B575-45BC221D4A20",
+    "name" : "Open Prod App with Dev Tools",
+    "keyword" : "prod-devtools"
+  }
+}

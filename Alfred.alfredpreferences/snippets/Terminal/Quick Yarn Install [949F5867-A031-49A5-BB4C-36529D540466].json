@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "rm -rf node_modules\/.yarn-integrity && yarn install",
+    "uid" : "949F5867-A031-49A5-BB4C-36529D540466",
+    "name" : "Quick Yarn Install",
+    "keyword" : "yarn-install"
+  }
+}

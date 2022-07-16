@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "SWAP_API_BASE=\"https:\/\/swap.aws.stg.ldg-tech.com\/v3\"",
+    "uid" : "35FA493B-25B7-4F0B-91CF-EE3430BE8936",
+    "name" : "Set staging swap API",
+    "keyword" : "staging-swap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git reset --hard HEAD",
+    "uid" : "9D0B36CF-628C-4B62-A059-771F4DCDBA11",
+    "name" : "Git Hard Reset",
+    "keyword" : "git reset"
+  }
+}

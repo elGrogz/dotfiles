@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "yarn detox build --configuration android.debug",
+    "uid" : "7891340F-84BD-4C43-82F3-32D21C67BA6A",
+    "name" : "Detox - Android Build (debug)",
+    "keyword" : "detox-android-build-debug"
+  }
+}

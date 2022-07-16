@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git+ssh:\/\/git@github.com:LedgerHQ\/ledger-live-common.git#",
+    "uid" : "66C8B0F1-7E3A-4427-B7DB-87A86860DE23",
+    "name" : "Import package from git repo",
+    "keyword" : "import-git-repo"
+  }
+}

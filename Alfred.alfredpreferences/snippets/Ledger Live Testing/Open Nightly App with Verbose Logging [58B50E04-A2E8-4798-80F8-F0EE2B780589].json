@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DEV_TOOLS=1 LEDGER_INTERNAL_ARGS=--inspect VERBOSE=debug \/Applications\/Ledger\\ Live\\ Nightly.app\/Contents\/MacOS\/Ledger\\ Live\\ Nightly",
+    "uid" : "58B50E04-A2E8-4798-80F8-F0EE2B780589",
+    "name" : "Open Nightly App with Verbose Logging",
+    "keyword" : "nightly-verbose"
+  }
+}

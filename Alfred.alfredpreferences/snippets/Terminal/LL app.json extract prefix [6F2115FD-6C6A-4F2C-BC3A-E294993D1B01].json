@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "~\/dev\/scripts\/app-json-extract.sh ledger-live filename",
+    "uid" : "6F2115FD-6C6A-4F2C-BC3A-E294993D1B01",
+    "name" : "LL app.json extract prefix",
+    "keyword" : "ll-app.json-extract"
+  }
+}

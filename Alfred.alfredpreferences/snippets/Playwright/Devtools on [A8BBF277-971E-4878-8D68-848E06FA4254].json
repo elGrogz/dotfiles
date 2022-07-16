@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : ", env: { DEV_TOOLS: true }",
+    "uid" : "A8BBF277-971E-4878-8D68-848E06FA4254",
+    "name" : "Devtools on",
+    "keyword" : "devtools"
+  }
+}

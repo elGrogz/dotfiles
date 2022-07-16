@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "pnpm clean && pnpm i --filter=\"live-mobile...\" --filter=\"ledger-live\" && pnpm build:llm:deps && pnpm mobile e2e:build -c android.emu.debug && pnpm mobile e2e:build -c ios.sim.debug",
+    "uid" : "064EBF26-8232-456E-9D76-290236C7C31A",
+    "name" : "Setup Mobile Debug tests",
+    "keyword" : "mobile-debug-setup"
+  }
+}

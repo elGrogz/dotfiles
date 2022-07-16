@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "find . -name \"*-darwin.png*\" -exec rm {} \\;",
+    "uid" : "D465DAD7-BC3C-4383-BA68-DAE802762C64",
+    "name" : "Delete Darwin Screenshots",
+    "keyword" : "delete-darwin-pics"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "await page.waitForLoadState(\"networkidle\");",
+    "uid" : "65882245-4C44-446C-9437-821D882B3062",
+    "name" : "Wait for network idle",
+    "keyword" : "network-idle"
+  }
+}

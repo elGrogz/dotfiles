@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "xcrun simctl list devices",
+    "uid" : "577B3B26-4A33-4DFC-9C97-F61D0F0C4332",
+    "name" : "iOS - List Emulated Devices",
+    "keyword" : "ios-emulators"
+  }
+}

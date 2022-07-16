@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "adb shell settings put system show_touches 1",
+    "uid" : "96B24CCB-AB9B-45EE-A3DA-3EAE10F07E7D",
+    "name" : "Show touches on Android emulator",
+    "keyword" : "show-touches-android"
+  }
+}

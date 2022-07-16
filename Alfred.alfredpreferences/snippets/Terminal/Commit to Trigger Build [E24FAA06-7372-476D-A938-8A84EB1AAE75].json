@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git commit --allow-empty -m \"Trigger Build\"",
+    "uid" : "E24FAA06-7372-476D-A938-8A84EB1AAE75",
+    "name" : "Commit to Trigger Build",
+    "keyword" : "trigger-build-commit"
+  }
+}

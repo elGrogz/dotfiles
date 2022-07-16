@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "TICKER=btc_testnet EXPLORER_TAG=latest PRALINE_TAG=latest docker-compose -f environments\/praline.yml up -d --force-recreate",
+    "uid" : "D71785E3-FA06-439A-A136-A1CFA44DA266",
+    "name" : "Start Praline Docker Container",
+    "keyword" : "start-praline"
+  }
+}

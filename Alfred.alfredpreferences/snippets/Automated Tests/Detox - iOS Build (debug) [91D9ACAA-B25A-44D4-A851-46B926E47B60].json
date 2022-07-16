@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "yarn detox build --configuration ios.debug",
+    "uid" : "91D9ACAA-B25A-44D4-A851-46B926E47B60",
+    "name" : "Detox - iOS Build (debug)",
+    "keyword" : "detox-ios-build-debug"
+  }
+}

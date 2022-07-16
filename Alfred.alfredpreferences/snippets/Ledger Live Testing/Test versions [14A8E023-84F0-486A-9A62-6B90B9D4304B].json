@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "* LLD Version - \n* LLM Version - \n* Experimental JS enabled? - \n* Explorer Version - \n* Experimental Explorers enabled? - \n* LedgerJS version - \n* Nano Version - \n* App versions - \n",
+    "uid" : "14A8E023-84F0-486A-9A62-6B90B9D4304B",
+    "name" : "Test versions",
+    "keyword" : "test-versions"
+  }
+}

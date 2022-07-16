@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "DEV_TOOLS=1 LEDGER_INTERNAL_ARGS=--inspect \/Applications\/Ledger\\ Live\\ Beta.app\/Contents\/MacOS\/Ledger\\ Live\\ Beta",
+    "uid" : "92B47715-D805-4915-B45F-50B3E8CC350B",
+    "name" : "Open Beta App with Dev Tools",
+    "keyword" : "beta-devtools"
+  }
+}

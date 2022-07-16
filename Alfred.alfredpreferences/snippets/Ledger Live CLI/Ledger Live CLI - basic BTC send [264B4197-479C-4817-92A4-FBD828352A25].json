@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ledger-live send -c btc --amount 0.00019 --recipient 3QNApah7nz4tdn6CS9eJXhvFXCbLKSbXaq",
+    "uid" : "264B4197-479C-4817-92A4-FBD828352A25",
+    "name" : "Ledger Live CLI - basic BTC send",
+    "keyword" : "llcli-btc-send"
+  }
+}
